@@ -1,1 +1,0 @@
-# vue-job-tracker
